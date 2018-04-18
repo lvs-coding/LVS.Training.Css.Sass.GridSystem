@@ -1,0 +1,14 @@
+{
+  "name": "gridSystem",
+  "version": "1.0.0",
+  "description": "Build a custom grid with float",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "LVS",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.8.3"
+  }
+}
